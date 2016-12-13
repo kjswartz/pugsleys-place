@@ -56,21 +56,19 @@
 		{% elsif page.call_to_action == 'Contact' %}
 			<section class="quote-section">
 				<p class="container editable">
-					<a href="{{ site.baseurl }}/contact/">Contact us</a> today to find out how we can help you. Your first consultation is free.
+					<a href="{{ site.baseurl }}/contact/">Contact us</a> today to find out about availability.
 				</p>
 			</section>
 		{% else %}
 			<section class="quote-section">
 				<p class="container editable">
-					<a href="{{ site.baseurl }}/advice/">Read our published advice</a> for an introduction and quick tips on various areas of the law.
+					<a href="{{ site.baseurl }}/ammentities/">Check out our ammentities</a> for an overview of accommodations.
 				</p>
 			</section>
 		{% endif %}
 
 		<footer>
 			<div class="container">
-				<p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Update Footer Sections</a></p>
-
 				<div class="footer-columns">
 					{% for column in site.data.footer %}
 						<ul class="footer-links">
