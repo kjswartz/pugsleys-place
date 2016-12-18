@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Pugsleys PLace
+title: Pugsleys Place
 url: "https://www.pugsleysplace.net"
 baseurl:
 google_analytics_key:
@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with kennel site.
+description: Pet boarding and grooming
 author:
   name: Kyle Swartz
   email: kyle.swartz.3@gmail.com
