@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Justice Template
-url: "https://orchid-heron.cloudvent.net"
+title: Pugsleys Place
+url: "https://www.pugsleysplace.net"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,15 +10,14 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with example content for a law firm.
+description: Pet boarding and grooming
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Kyle Swartz
+  email: kyle.swartz.3@gmail.com
+  twitter: kjswartz04
 social:
-  name: Justice Template
+  name:
   links:
-    - https://github.com/CloudCannon/justice-jekyll-template
 
 # -----
 # Build
@@ -35,8 +34,8 @@ defaults:
       path: ""
     values:
       layout: page
-      background_image_path: /uploads/building.jpg
-      image: /uploads/building.jpg
+      background_image_path: /images/header2.png
+      image: /images/header2.png
   -
     scope:
       path: ""
@@ -75,14 +74,6 @@ call_to_actions:
 
 social_icons:
   - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
-  - RSS
 
 _comments:
   large_header: Toggles the size of the top banner.
