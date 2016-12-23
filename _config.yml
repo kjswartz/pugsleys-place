@@ -9,10 +9,8 @@
 title: Pugsleys Place
 description: We are a licensed boarding and grooming kennel that operates 7 days a week, located one mile form exit 257 off of I-94
 url: "http://pugsleysplace.net"
-# baseurl: http://pugsleysplace.net
+baseurl:
 logo: "/siteicon.png"
-facebook:
-  app_id: 286845214707296
 image:
   facebook: /uploads/bulldog.jpg
 # -----
