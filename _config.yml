@@ -1,24 +1,20 @@
 # ----
 # Site
 
-title: Pugsleys Place
-url: "https://www.pugsleysplace.net"
-baseurl:
-google_analytics_key:
-google_maps_javascript_api_key:
-disqus_shortname:
-
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: Pet boarding and grooming
-author:
-  name: Kyle Swartz
-  email: kyle.swartz.3@gmail.com
-  twitter: kjswartz04
-social:
-  name:
-  links:
+# google_analytics_key:
+# google_maps_javascript_api_key:
+# disqus_shortname:
 
+title: Pugsleys Place
+description: We are a licensed boarding and grooming kennel that operates 7 days a week, located one mile form exit 257 off of I-94
+url: "http://pugsleysplace.net"
+# baseurl: http://pugsleysplace.net
+logo: "/siteicon.png"
+facebook:
+  app_id: 286845214707296
+image:
+  facebook: /uploads/bulldog.jpg
 # -----
 # Build
 
@@ -53,9 +49,9 @@ jekyll-archives:
 
 gems:
   - jekyll-archives
-  - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-paginate
 
 exclude:
@@ -69,8 +65,6 @@ exclude:
 
 call_to_actions:
   - Contact
-  - Advice
-  - Map
 
 social_icons:
   - Facebook
