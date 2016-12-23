@@ -1,39 +1,9 @@
-# Justice
-
-Law firm themed business template for Jekyll. Browse through a [live demo](https://grey-grouse.cloudvent.net/).
-Increase the web presence of a law firm or business with this configurable theme.
-
-![Justice template screenshot](images/_screenshot.png)
-
-Justice was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-Find more templates and themes at [Jekyll Tips](http://jekyll.tips/templates/).
-
-Learn Jekyll with step-by-step tutorials and videos at [Jekyll Tips](http://jekyll.tips/).
-
-## Features
-
-* Contact form
-* Pre-built pages
-* Pre-styled components
-* Blog with pagination
-* Post category pages
-* Disqus comments for posts
-* Staff and author system
-* Configurable footer
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
-
 ## Setup
 
 1. Add your site and author details in `_config.yml`.
 2. Add your Google Analytics and Disqus keys to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
 
 ## Develop
-
-Justice was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
@@ -46,10 +16,6 @@ Run `jekyll` commands through Bundler to ensure you're using the right versions:
 ~~~bash
 $ bundle exec jekyll serve
 ~~~
-
-## Editing
-
-Justice is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in [CloudCannon](https://app.cloudcannon.com/).
 
 ### Posts
 
