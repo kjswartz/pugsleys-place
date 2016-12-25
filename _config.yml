@@ -1,11 +1,11 @@
 # ----
 # Site
 
-# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 # google_analytics_key:
-# google_maps_javascript_api_key:
+google_maps_javascript_api_key: AIzaSyA75JfLSbu4EIkxINTWnoP_gLN2OLWWqV8
 # disqus_shortname:
 
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 title: Pugsleys Place
 description: We are a licensed boarding and grooming kennel that operates 7 days a week, located one mile form exit 257 off of I-94
 url: "http://pugsleysplace.net"
@@ -64,6 +64,7 @@ exclude:
 call_to_actions:
   - Contact
   - Services
+  - Map
 
 social_icons:
   - Facebook
