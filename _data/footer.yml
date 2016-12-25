@@ -6,6 +6,8 @@
       link: /about/
     - name: Services
       link: /services/
+    - name: Hours & Pricing
+      link: /hours_and_pricing/
     - name: Contact
       link: /contact/
 - title: Social
